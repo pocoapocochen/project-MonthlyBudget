@@ -52,7 +52,7 @@ Coded by Chen Yu-jie from learning 'The Complete JavaScript Course 2018: Build R
 
 
 
-// DATA controller (Module)
+// DATA controller (Model)
 var dataController = (function(){
 
 	// create constuctor in order to build every expense or income item
