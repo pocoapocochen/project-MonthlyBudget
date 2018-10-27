@@ -11,6 +11,7 @@
 * HTML
 * CSS
 * Pure JavaScript
+* Ionic Framework
 
 ## Note
 * HTML and CSS files are coded by Jonas Schmedtmann, the instructor of the course.
