@@ -1,5 +1,5 @@
 # project-MonthlyBudget
-* Project from: 'The Complete JavaScript Course 2018: Build Real Projects!' on Udemy
+* Project from: '[The Complete JavaScript Course 2018: Build Real Projects!](https://www.udemy.com/the-complete-javascript-course/)' on Udemy
 * [Live](https://pocoapocochen.github.io/project-MonthlyBudget/) version
 
 ## User Story
