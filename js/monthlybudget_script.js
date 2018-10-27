@@ -1,8 +1,8 @@
 /*
-Coded by learning 'The Complete JavaScript Course 2018: Build Real Projects!' course on Udemy
+Coded by Chen Yu-jie from learning 'The Complete JavaScript Course 2018: Build Real Projects!' course on Udemy
  */
 
-/*
+/* note by Chen Yu-jie
 -set up-
 0. write down M-V-C using IIFE
 
