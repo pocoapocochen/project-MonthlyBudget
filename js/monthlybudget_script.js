@@ -9,7 +9,7 @@ Coded by Chen Yu-jie from learning 'The Complete JavaScript Course 2018: Build R
 -add item-
 1. Controller: set the listener on things user will do (e.g. click, keypress...)
 2. View: get data from input, then return data
-3. Module: create object and prepare to store data, then return new item
+3. Model: create object and prepare to store data, then return new item
 4. Controller: pass the input data from View into Mudule, to create item and store data
 5. View: get the new item data, then return the item prepared to show onto UI
 6. Controller: pass the new item object and call the showItem function
@@ -19,20 +19,20 @@ Coded by Chen Yu-jie from learning 'The Complete JavaScript Course 2018: Build R
 8. Controller: call the clear field function 
 
 -calculate budget-
-9. Module: create function to calculate total income and expense, then return the function to calculate budget and persentage, also return the result
+9. Model: create function to calculate total income and expense, then return the function to calculate budget and persentage, also return the result
 10. Controller: call the calculate function, and get the result
 11. View: return function to display budget, total income, total expense and persentage
 12. Controller: pass the budget object and call the display budget function
 
 -delete item-
 13. Controller: set event listener on delete item
-14. Module: return function to delete item
+14. Model: return function to delete item
 15. Controller: pass the id of delete item and call delete item function
 16. View: return function to delete the item on UI
 17. Controller: pass the div's id name and call unshown item function
 
 -calculate persentage of each expense-
-18. Module: create method using prototype of expense instructor
+18. Model: create method using prototype of expense instructor
 19. Controller: call the calculate function, and get the result
 20. View: return function to display each persentage
 21. Controller: pass the array and call the display persentage function
