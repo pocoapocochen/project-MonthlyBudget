@@ -1,5 +1,6 @@
 /*
-Coded by Chen Yu-jie from learning 'The Complete JavaScript Course 2018: Build Real Projects!' course on Udemy
+Coded by Chen Yu-jie by the tutorials of 'The Complete JavaScript Course 2018: Build Real Projects!' course on Udemy
+https://www.udemy.com/the-complete-javascript-course/
  */
 
 /* note by Chen Yu-jie
